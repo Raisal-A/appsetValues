@@ -1,5 +1,5 @@
 appName: "nahdi-sso-qa"
-namespace: qa
+namespace: test
 replicaCount: 3
 image: nginx:stable
 publicIngress:
