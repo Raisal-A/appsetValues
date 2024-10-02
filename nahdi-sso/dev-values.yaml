@@ -1,4 +1,5 @@
 appName: "nahdi-sso-dev"
+namespace: dev
 replicaCount: 2
 image: nginx:latest
 publicIngress:
