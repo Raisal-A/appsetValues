@@ -1,4 +1,4 @@
-appName: "nahdi-mw-uat"
+appName: "test-nahdi-mw-uat"
 namespace: test
 replicaCount: 2
 image: nginx:latest

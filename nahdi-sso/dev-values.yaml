@@ -1,4 +1,4 @@
-appName: "nahdi-sso-dev"
+appName: "test-nahdi-sso-dev"
 namespace: test
 replicaCount: 2
 image: nginx:latest
