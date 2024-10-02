@@ -1,4 +1,5 @@
 appName: "nahdi-mw-uat"
+namespace: uat
 replicaCount: 2
 image: nginx:latest
 publicIngress:
